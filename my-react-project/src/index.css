@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* temporary because of tailwinds default class*/
+*{
+    margin: 5px;
+    padding: 5px;
+}

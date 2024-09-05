@@ -1,2 +1,2 @@
-# my-react-project
+# my react journey
  
